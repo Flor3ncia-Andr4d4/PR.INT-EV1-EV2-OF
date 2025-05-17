@@ -17,3 +17,4 @@ Se aplican clases de Tailwind CSS para mejorar el diseño.
 El componente principal es Productos.jsx, que se importa y usa en App.jsx.
 
 ![Vista previa](./screenshot.png)
+![Vista previa](./screenshot2.PNG)
